@@ -17,7 +17,7 @@ This section of the lab goes through installing our hypervisor and setting up ou
 
 <h2>QEMU/KVM and Virt-manager</h2>
 
-<p><b>Let's begin with the installation of QEMU/KVM and Virt-manager. This is essentially an application that turns Linux into a hypervisor while providing a 'graphical user interface' (GUI) for simpler management. Don't worry, installation is much easier than it sounds.</b>
+<p><b>Let's begin with the installation of QEMU/KVM and Virt-manager. This is essentially an application that turns Linux into a hypervisor while providing a 'graphical user interface' (GUI) for easy management.</b>
 
 </p>
 <p align="center">
